@@ -42,6 +42,17 @@ see attached video
 If you have any questions, please contact the coding team at:
 school7323@gmail.com
 
+
+
 Deployed: https://github.com/Smccarthy17/ReadMe_generator.git
 
 Walkthrough Video: https://drive.google.com/file/d/1dLUAWrhBD5fNnCgnjm6jCrKRFaPsbu2N/view
+
+Study group: Susan, Chris P, Jackson, Sarah, Ricky, Aaron
+
+
+<img width="1374" alt="image" src="https://user-images.githubusercontent.com/90977936/185762985-cc18afb6-cb7f-433d-a18c-88c811f478ce.png">
+
+
+
+
