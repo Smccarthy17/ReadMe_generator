@@ -47,3 +47,6 @@ Deployed: https://github.com/Smccarthy17/ReadMe_generator.git
 Walkthrough Video: https://drive.google.com/file/d/1dLUAWrhBD5fNnCgnjm6jCrKRFaPsbu2N/view
 
 Study group: Susan, Chris P., Jackson, Sarah, Ricky, Aaron.
+
+<img width="1231" alt="image" src="https://user-images.githubusercontent.com/90977936/185764914-058d4515-d3e5-4871-946b-4b36c5d308bc.png">
+
