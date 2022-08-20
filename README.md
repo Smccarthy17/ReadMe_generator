@@ -45,3 +45,5 @@ school7323@gmail.com
 Deployed: https://github.com/Smccarthy17/ReadMe_generator.git
 
 Walkthrough Video: https://drive.google.com/file/d/1dLUAWrhBD5fNnCgnjm6jCrKRFaPsbu2N/view
+
+Study group: Susan, Chris P., Jackson, Sarah, Ricky, Aaron.
