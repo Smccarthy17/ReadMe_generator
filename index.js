@@ -61,7 +61,7 @@ function init() {
         var template = generateMarkdown(answers);
         console.log(template);
         //function writeToFile(fileName, data) {}
-        fs.writeFile('README.md', template, (error) => {
+        fs.writeFile('READMEGENERATOR.md', template, (error) => {
             if (error) {
                 console.log(error);
             } else {
